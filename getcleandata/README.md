@@ -1,6 +1,8 @@
 Run Analysis
 ============
 
+run_analysis.R script works by pulling in raw data from Samsung data when housed in working directory. CodeBook.Rmd should be consulted for further instructions.
+
 
 CodeBook.Rmd
 ------------
